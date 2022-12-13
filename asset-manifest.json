@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Minor-Project-2022/static/css/main.deb4d580.chunk.css",
+    "main.js": "/Minor-Project-2022/static/js/main.f743f8b8.chunk.js",
+    "main.js.map": "/Minor-Project-2022/static/js/main.f743f8b8.chunk.js.map",
+    "runtime-main.js": "/Minor-Project-2022/static/js/runtime-main.022b3c89.js",
+    "runtime-main.js.map": "/Minor-Project-2022/static/js/runtime-main.022b3c89.js.map",
+    "static/css/2.cc57a610.chunk.css": "/Minor-Project-2022/static/css/2.cc57a610.chunk.css",
+    "static/js/2.3162eecb.chunk.js": "/Minor-Project-2022/static/js/2.3162eecb.chunk.js",
+    "static/js/2.3162eecb.chunk.js.map": "/Minor-Project-2022/static/js/2.3162eecb.chunk.js.map",
+    "index.html": "/Minor-Project-2022/index.html",
+    "static/css/2.cc57a610.chunk.css.map": "/Minor-Project-2022/static/css/2.cc57a610.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/Minor-Project-2022/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.3162eecb.chunk.js.LICENSE.txt": "/Minor-Project-2022/static/js/2.3162eecb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022b3c89.js",
+    "static/css/2.cc57a610.chunk.css",
+    "static/js/2.3162eecb.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.f743f8b8.chunk.js"
+  ]
+}
